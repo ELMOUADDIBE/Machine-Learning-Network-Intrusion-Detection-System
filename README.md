@@ -20,11 +20,13 @@ Afin d'exécuter ce projet, il est nécessaire de préparer un environnement Pyt
 - joblib
 - scikit-learn
 - streamlit
+- matplotlib
+- seaborn
 
 Ces dépendances peuvent être installées via pip en exécutant la commande suivante :
 
 ```sh
-pip install pandas joblib scikit-learn streamlit
+pip install pandas joblib scikit-learn streamlit matplotlib seaborn
 ```
 
 ## Utilisation
