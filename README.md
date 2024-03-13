@@ -3,6 +3,8 @@
 
 Ce projet utilise des techniques d'apprentissage automatique pour identifier les tentatives d'intrusion dans les réseaux informatiques. Il s'appuie sur un ensemble diversifié d'algorithmes de machine learning pour analyser les données de trafic réseau et distinguer les activités normales des tentatives d'intrusion.
 
+Pour accéder à l'interface utilisateur du projet, veuillez visiter : [https://bdcc-ml-nids.streamlit.app/](https://bdcc-ml-nids.streamlit.app/)
+
 ## Caractéristiques Principales
 
 - **Diversité des Algorithmes** : Le système emploie cinq algorithmes de machine learning différents, à savoir la Régression Logistique, Random Forest, Naive Bayes, KNN (K-Nearest Neighbors), et SVC (Support Vector Classification), afin d'optimiser la détection des intrusions.
