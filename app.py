@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import joblib
 from joblib import load
 
 # Fonction pour charger les modèles
